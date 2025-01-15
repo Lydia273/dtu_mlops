@@ -16,3 +16,9 @@ pre-commit == 4.0.1
 # Other
 ipython == 8.31.0
 invoke == 2.2.0
+
+
+# pytorch 
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
